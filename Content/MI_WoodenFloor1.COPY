@@ -1,0 +1,34 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="MI_WoodenFloor1"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=DF3DBA224AAB3E31F8E5A9A62924AC02
+   Parent=Material'"/Game/Material/MasterMaterial.MasterMaterial"'
+   ScalarParameterValues(0)=(ParameterInfo=(Name="MetallicMultiplier"),ParameterValue=1.000000,ExpressionGUID=A986C6AB412C01AE3B78208ADD44B8C5)
+   ScalarParameterValues(1)=(ParameterInfo=(Name="OcclusionMulltiplier"),ParameterValue=1.000000,ExpressionGUID=AD1DF3E7466B51158D0DA7A32497E630)
+   ScalarParameterValues(2)=(ParameterInfo=(Name="RotationAngle"),ParameterValue=0.250000,ExpressionGUID=B872EF3641D5CF984D97F5955A7E07FE)
+   ScalarParameterValues(3)=(ParameterInfo=(Name="RoughnessMultiplier"),ParameterValue=1.000000,ExpressionGUID=7B45520040BD0312297CD0A0DA910437)
+   ScalarParameterValues(4)=(ParameterInfo=(Name="ScaleU"),ParameterValue=2.000000,ExpressionGUID=9038CD6347C34F0C8B73C2AAAEEBE572)
+   ScalarParameterValues(5)=(ParameterInfo=(Name="ScaleV"),ParameterValue=2.000000,ExpressionGUID=33094D094D3084AE5BD73D95F030E972)
+   ScalarParameterValues(6)=(ParameterInfo=(Name="SpecularityMultiplier"),ParameterValue=1.000000,ExpressionGUID=A63D8EC84E02D17FDF16C0ABD416B1C1)
+   ScalarParameterValues(7)=(ParameterInfo=(Name="RefractionDepthBias"))
+   TextureParameterValues(0)=(ParameterInfo=(Name="BaseTexture"),ParameterValue=Texture2D'"/Game/Textures/WoodenFloor2/udlxbgtl_4K_Albedo.udlxbgtl_4K_Albedo"',ExpressionGUID=F450D25645723DDB4E88DB96EC9EA985)
+   TextureParameterValues(1)=(ParameterInfo=(Name="Normal"),ParameterValue=Texture2D'"/Game/Textures/WoodenFloor2/udlxbgtl_4K_Normal.udlxbgtl_4K_Normal"',ExpressionGUID=38F9E15F49F6BD2474411B904F2E8506)
+   TextureParameterValues(2)=(ParameterInfo=(Name="Roughness"),ParameterValue=Texture2D'"/Game/Textures/WoodenFloor2/udlxbgtl_4K_Roughness.udlxbgtl_4K_Roughness"',ExpressionGUID=053DDF13470AF374A531388D3FA888EF)
+   TextureParameterValues(3)=(ParameterInfo=(Name="Specularity"),ParameterValue=Texture2D'"/Game/Textures/WoodenFloor2/udlxbgtl_4K_Specular.udlxbgtl_4K_Specular"',ExpressionGUID=DD8E6BD84940BAA8CEF1CBA8A5022968)
+   TextureParameterValues(4)=(ParameterInfo=(Name="AmbientOcclusion"),ParameterValue=Texture2D'"/Game/Textures/WoodenFloor2/udlxbgtl_4K_AO.udlxbgtl_4K_AO"',ExpressionGUID=3022CE40494C2974DF8072AAB85B1291)
+   BasePropertyOverrides=(OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=E58B48D64C58665221D1E791231DE707
+   ReferencedTextureGuids(1)=02CF177A4C5B28BCF90CD38A39D6DB8B
+   ReferencedTextureGuids(3)=0B7A85904DF35B2F3AF20B9B281AF1A0
+   ReferencedTextureGuids(4)=EBD01A37442A94EDE6CE98B1E1367CBF
+   ReferencedTextureGuids(5)=B4099E0849D5BA490C9D2F8D4B5CC9B1
+   TextureStreamingDataVersion=1
+   TextureStreamingData(0)=(SamplingScale=2.000000,UVChannelIndex=0,TextureName="Plaster_Ultra_Fine_Spray_INST_metallic1",TextureReference=/Game/Substance/Plaster_Ultra_Fine_Spray_INST_metallic1.Plaster_Ultra_Fine_Spray_INST_metallic1)
+   TextureStreamingData(1)=(SamplingScale=2.000000,UVChannelIndex=0,TextureName="udlxbgtl_4K_AO",TextureReference=/Game/Textures/WoodenFloor2/udlxbgtl_4K_AO.udlxbgtl_4K_AO)
+   TextureStreamingData(2)=(SamplingScale=2.000000,UVChannelIndex=0,TextureName="udlxbgtl_4K_Normal",TextureReference=/Game/Textures/WoodenFloor2/udlxbgtl_4K_Normal.udlxbgtl_4K_Normal)
+   TextureStreamingData(3)=(SamplingScale=2.000000,UVChannelIndex=0,TextureName="udlxbgtl_4K_Roughness",TextureReference=/Game/Textures/WoodenFloor2/udlxbgtl_4K_Roughness.udlxbgtl_4K_Roughness)
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=133487694B94371910D5EE9ED2975202
+End Object
